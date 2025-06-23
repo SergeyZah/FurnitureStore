@@ -3,10 +3,18 @@
   <img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhkaHg2bGVqaXJ4dmhvcmQ3aTUzbGJvdXg3NWUwdmd3aGEyem1xaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JGdbbSyi3wM9uBKv8p/giphy.gif" width="60px"/>
 </h1>
 
-<h1 align="center">
+<h3>The purpose of the site:</h3>
+- :telescope: Работаю программистом и вношу свой вклад во внешний интерфейс для создания веб-сайтов.
+
+- :seedling: Изучаю процесс написания технического контента.
+
+- :zap: В свободное время я решаю прикладные задачи и читаю технические статьи.
+
+- :mailbox:Как со мной связаться: https://vk.com/zakharychev1
+
+<h3>
   Website appearance: https://sergeyzah.github.io/FurnitureStore/
-  <img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhkaHg2bGVqaXJ4dmhvcmQ3aTUzbGJvdXg3NWUwdmd3aGEyem1xaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JGdbbSyi3wM9uBKv8p/giphy.gif" width="60px"/>
-</h1>
+</h3>
 
 ### :hammer_and_wrench: Languages and tools :
 
