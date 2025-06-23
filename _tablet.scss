@@ -1,0 +1,141 @@
+@media (max-width: 1024px) {
+    .center {
+        padding-left: calc(50% - 786px/2);
+        padding-right: calc(50% - 786px/2);
+    }
+
+    .for {
+        &__item {
+            height: 268px;
+        }
+    }
+
+    .filtering-form {
+        right: -237px;
+    }
+
+    .cart {
+        grid-template-columns: repeat(8, 1fr);
+        gap: 64px 32px;
+    }
+
+    .button-box__item_black {
+        background-color: #000;
+        color: rgb(255, 255, 255);
+    }
+
+    .product-box__title-special {
+        margin-top: 64px;
+    }
+
+    .product-box__content {
+        gap: 30px;
+    }
+
+    .product-box_catalog {
+        gap: 30px;
+    }
+
+    .product_catalog {
+        grid-column: span 6;
+    }
+
+    .footer {
+        gap: 0px;
+    }
+
+    .footer__logo {
+        display: none;
+    }
+
+    .menu__link:hover {
+        text-decoration: none;
+    }
+
+    .menu__link-cart:hover {
+        text-decoration: none;
+    }
+
+    .menu-catalog__link:hover {
+        text-decoration: none;
+    }
+
+    .product__pins {
+        display: block;
+    }
+
+    .footer__link:hover {
+        text-decoration: none;
+    }
+
+    .footer__contacts:hover {
+        text-decoration: none;
+    }
+
+    .icons__item:hover {
+        transform: scale(1);
+        transition: none;
+    }
+
+    .buttonstyle:hover {
+        background: white;
+        transform: scale(1);
+        font-weight: 400;
+        transition: none;
+    }
+
+    .button-box__item:hover {
+        background-color: white;
+        border: 1px solid rgb(0, 0, 0);
+        transform: scale(1);
+        font-weight: 400;
+        transition: none;
+    }
+
+    .button-box__item_black:hover {
+        color: white;
+        background-color: black;
+    }
+
+    .form__button:hover {
+        background-color: white;
+        border: 1px solid rgb(0, 0, 0);
+        transform: scale(1);
+        font-weight: 400;
+        transition: none;
+    }
+
+    .button-filter__link:hover {
+        text-decoration: none;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 833px) {
+    .center {
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+
+    .product {
+        width: 345px;
+
+        &-box__content {
+            column-gap: 28px;
+            row-gap: 38px;
+        }
+
+        &-box_catalog {
+            gap: 30px;
+        }
+
+    }
+
+    .footer {
+        justify-content: flex-start;
+
+        &__content {
+            gap: 0px;
+            width: 100vh;
+        }
+    }
+}
